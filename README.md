@@ -67,8 +67,8 @@ I used a limited amount of data due to computational constraints, as processing 
 ## Installation & Setup
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/countix-repnet.git
-cd countix-repnet
+git clone git@github.com:fatemafaria142/Repetitive-Action-Counting.git
+cd Repetitive-Action-Counting
 ```
 
 ## References
