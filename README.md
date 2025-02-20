@@ -1,4 +1,4 @@
-# Repetitive-Action-Counting
+# Repetitive Action Counting in YouTube Videos
 
 ## Dataset Description
 I have used the **Countix dataset** for my assessment. The dataset consists of time-annotated YouTube videos, focusing on repetitive actions. Each row in the dataset represents a specific segment of a video where an action occurs multiple times. The dataset is stored in **CSV format** and contains the following columns:
